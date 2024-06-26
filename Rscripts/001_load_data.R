@@ -1,1 +1,0 @@
-nano.obj <- LoadNanostring(data.dir = "/brahms/hartmana/vignette_data/nanostring/lung5_rep1", fov = "lung5.rep1")
